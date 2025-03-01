@@ -27,6 +27,10 @@
 
 ## 📚 **Educação e Certificações**
 
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
+</a>
+
 🎓 **Análise e Desenvolvimento de Sistemas**  
 🖥️ **Pós-graduação em Arquitetura de Software - FIAP**  
 📜 **Certificações relevantes (listadas no LinkedIn)**
@@ -61,5 +65,5 @@
 ---
 
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Olá!+Sou+Maurício+Goulart" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%22A3FF33&size=24&center=true&vCenter=true&lines=Volte+sempre+ao+meu+GitHub!" />
 </a>
